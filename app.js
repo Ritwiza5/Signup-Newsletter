@@ -29,7 +29,7 @@ app.post("/",function(req,res){
 const url="https://us10.api.mailchimp.com/3.0/lists/30275cbcb7";
 const options={
     method: "POST",
-    auth:"ritwiza1:66598fd5e251bee77bd3072fa0a58c38-us10"
+    auth:"ritwiza1:e661025cdd734003a876a4d895097c1b-us10"
 }
 const json=JSON.stringify(data);
 
